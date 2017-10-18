@@ -1,0 +1,5 @@
+添加moudle   npm install
+启动项目     npm run dev
+前端代码打包命令	   
+npm run 
+端口号8080	localhost:8080
